@@ -1,7 +1,11 @@
  # Laravel Business ID Card Generator 
  > git clone https://github.com/needyamin/laravel-Business-ID-Card.git
  
- > run command "php artisan serve"
+ > Edit .env file and replace with your database name
+ 
+ > Run command "php artisan migrate"
+ 
+ > Again run command "php artisan serve"
  
  > enjoy!
  
