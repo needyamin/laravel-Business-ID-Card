@@ -1,5 +1,5 @@
  # Laravel Business ID Card Generator 
- > git clone
+ > git clone https://github.com/needyamin/laravel-Business-ID-Card.git
  
  > run command "php artisan serve"
  
